@@ -8,8 +8,8 @@ A simple Chatting app to demonstrate how to integrate stream chat in a flutter p
     <img src="https://raw.githubusercontent.com/Dammyololade/stream_chat/main/channel.png" width="200"/></a>
 </td>
  <td style="text-align: center">
-  <a href="https://raw.githubusercontent.com/Dammyololade/flutter_polyline_points/master/poly.jpeg">
-    <img src="https://raw.githubusercontent.com/Dammyololade/flutter_polyline_points/master/poly.jpeg" width="200"/></a>
+  <a href="https://raw.githubusercontent.com/Dammyololade/stream_chat/main/chat.png">
+    <img src="https://raw.githubusercontent.com/Dammyololade/stream_chat/main/chat.png" width="200"/></a>
 </td>
 </tr></table></div>
 
